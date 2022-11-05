@@ -20,3 +20,10 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
 """
 print('Problem 1 - Two sum')
+class Solution:
+    def twoSum(nums, target):
+        for i in range(len(nums)):
+            for j in range(i + 1, len(nums)):
+                if nums[j] == target - nums[i]:
+                    print([i,j])        #lmao use return if you pasting this to leetcode terminal
+    twoSum([2,7,11,15], 9)
