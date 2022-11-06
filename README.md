@@ -1,6 +1,7 @@
 # Solving hackerrank problems everyday!
 
-```Current Problems solved- 
+```
+Current Problems solved- 
         Codechef - 4
         Leetcode -
                     Easy - 4
