@@ -4,11 +4,11 @@ Current Problems solved-
 ```
     > Codechef - 4
 
-    > Leetcode -
+    > Leetcode - 4
         Easy - 4
-        Medium - 
-        Hard -
-         
+        Medium - 0
+        Hard - 0
+
     > HackerRank - 0
 ```
 
