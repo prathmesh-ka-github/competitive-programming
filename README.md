@@ -3,10 +3,12 @@
 Current Problems solved- 
 ```
     > Codechef - 4
+
     > Leetcode -
-          Easy - 4
-          Medium - 
-          Hard - 
+        Easy - 4
+        Medium - 
+        Hard -
+         
     > HackerRank - 0
 ```
 
