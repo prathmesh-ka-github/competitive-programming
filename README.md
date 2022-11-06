@@ -1,8 +1,19 @@
 # Solving hackerrank problems everyday!
 
+```Current Problems solved- 
+        Codechef - 4
+        Leetcode -
+                    Easy - 4
+                    Medium - 
+                    Hard - 
+        HackerRank - 0
+```
+
 This is a repo I created to store my all hackerrank problems that I solve and to keep track of my progress overall.
 Solving one hackerrank problem everyday and keeping the practice in!
 
-I will mainly use ```python``` and will also make a folder for ```C language``` with Leetcode, codechef and hackerrank.
+I will mainly use **python** and will also make a folder for **C language** with Leetcode, codechef and hackerrank.
 
-My hackerrank, codechef and leetcode id is in the profile, do check out that also!
+A **star** on the repository will be very much appriciated ⭐
+
+My hackerrank, codechef and leetcode ids are in the profile, do check out that also!!
