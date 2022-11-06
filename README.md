@@ -2,12 +2,12 @@
 
 Current Problems solved- 
 ```
-        > Codechef - 4
-        > Leetcode -
-              Easy - 4
-              Medium - 
-              Hard - 
-        > HackerRank - 0
+    > Codechef - 4
+    > Leetcode -
+          Easy - 4
+          Medium - 
+          Hard - 
+    > HackerRank - 0
 ```
 
 This is a repo I created to store my all hackerrank problems that I solve and to keep track of my progress overall.
