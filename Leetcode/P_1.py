@@ -22,8 +22,8 @@ Output: [0,1]
 print('Problem 1 - Two sum')
 class Solution:
     def twoSum(nums, target):
-        for i in range(len(nums)):
-            for j in range(i + 1, len(nums)):
-                if nums[j] == target - nums[i]:
+        for i in range(len(nums)):      #loop that iterates from i to length of the array
+            for j in range(i + 1, len(nums)):       #loop that iterates j from i+1(i.e the next number) to length of the array
+                if nums[j] == target - nums[i]:     #if statement for checking and prints the combo 
                     print([i,j])        #lmao use return if you pasting this to leetcode terminal
     twoSum([2,7,11,15], 9)
