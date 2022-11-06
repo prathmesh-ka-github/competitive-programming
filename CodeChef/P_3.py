@@ -10,8 +10,7 @@ The only line of input contains two space separated integers
 XX and YY — the threshold limit and the rate at which Chef is currently working at.
 
 Output Format
-If Chef is prone to errors print YES, otherwise print NO.
-"""
+If Chef is prone to errors print YES, otherwise print NO."""
 x = int(input())
 y = int(input())
 if(x < y):
