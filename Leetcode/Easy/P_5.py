@@ -31,7 +31,7 @@ str = str[:index] + new_character + str[index+1:]
 print(str)
 """
 
-num = int(input())
+num = [int(input())]
 ans = list(str(num))
 for i in range(len(str(num))):
     if(ans[i] == '6'):
