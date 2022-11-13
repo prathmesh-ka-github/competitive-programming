@@ -24,7 +24,6 @@ Example 3:
     Input: s = "(]"
     Output: false
 """
-s = "{}(){[]}[]"
 closing = ")}]"
 
 # for i in s[::2]:
@@ -45,6 +44,7 @@ closing = ")}]"
 
 
 #!now using a datastructure (stack FILO)
+s = "{}(){[]}[]"
 stack = []
 lookup = {")":"(" , "}":"{" , "]":"["}
 
