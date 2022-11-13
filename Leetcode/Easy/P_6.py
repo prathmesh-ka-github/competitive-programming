@@ -48,13 +48,15 @@ s = "{}(){[]}[]"
 stack = []
 lookup = {")":"(" , "}":"{" , "]":"["}
 
-for p in s:
-    if p in lookup.values():
-        stack.append(p)
-    elif stack and lookup[p] == stack[-1]:
+for bracket in s:
+    if bracket in lookup.values():
+        stack.append(bracket)
+    elif stack and lookup[bracket] == stack[-1]:
         stack.pop()
     else:
         print("false")
 if stack == []:
     print("true")
+else:
+    print("false")
 print("\n" * 8)
