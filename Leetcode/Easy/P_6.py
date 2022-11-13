@@ -57,3 +57,4 @@ for p in s:
         print("false")
 if stack == []:
     print("true")
+print("\n" * 8)
