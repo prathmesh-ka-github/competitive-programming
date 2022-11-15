@@ -4,8 +4,8 @@ Current Problems solved-
 ```
     > Codechef - 4
 
-    > Leetcode - 5
-        Easy - 5
+    > Leetcode - 7
+        Easy - 7
         Medium - 0
         Hard - 0
 
