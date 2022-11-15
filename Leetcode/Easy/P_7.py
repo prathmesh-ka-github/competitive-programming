@@ -22,9 +22,10 @@ Thus, the result should be [4,3,2,2].
 """
 
 #Algorithm ->
-
-
-
+"""
+Input - List
+List => String => Num => operation(add) => String => List
+"""
 
 digits = [9]
 print(digits)                               #for understanding puposes
@@ -35,3 +36,9 @@ num = int(strnum) + 1
 print(num)                              #for understanding puposes
 listofNum = list(map(int, str(num)))
 print(listofNum)                                #for understanding puposes
+
+#Efficient solution (after refactoring)
+# strnum = ""
+# for i in digits: strnum += str(i)
+# listofNum = list(map(int, str(int(strnum) + 1)))
+# print(listofNum)
