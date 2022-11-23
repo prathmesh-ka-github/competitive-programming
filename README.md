@@ -19,4 +19,4 @@ I will mainly use **python** and will also make a folder for **C language** with
 
 A **star** on the repository will be very much appriciated ⭐
 
-My hackerrank, Codechef and Leetcode ids are in the profile, do check out that also!!
+My Hackerrank, Codechef and Leetcode ids are in the profile, do check out that also!!
