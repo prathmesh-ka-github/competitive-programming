@@ -4,8 +4,8 @@ Current Problems solved-
 ```
     > Codechef - 4
 
-    > Leetcode - 7
-        Easy - 7
+    > Leetcode - 9
+        Easy - 9
         Medium - 0
         Hard - 0
 
@@ -19,4 +19,4 @@ I will mainly use **python** and will also make a folder for **C language** with
 
 A **star** on the repository will be very much appriciated ⭐
 
-My hackerrank, codechef and leetcode ids are in the profile, do check out that also!!
+My Hackerrank, Codechef and Leetcode ids are in the profile, do check out that also!!
