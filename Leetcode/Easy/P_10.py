@@ -14,3 +14,7 @@
 # Explanation: n = 2 since there are 2 numbers, so all numbers are in the range [0,2]. 
 # 2 is the missing number in the range since it does not appear in nums.
 #!Attempt 1.
+nums=[1,3,2,0,4]
+length=len(nums)    #length = 5
+for i in range(length+1):
+    if i not in nums : print(i)
