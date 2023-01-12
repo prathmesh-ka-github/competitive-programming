@@ -20,3 +20,5 @@ I will mainly use **python** and will also make a folder for **C language** with
 A **star** on the repository will be very much appriciated ⭐
 
 My Hackerrank, Codechef and Leetcode ids are in the profile, do check out that also!!
+
+Mainly questions are solved in Python but will try to solve them again in C and JavaScript also!
